@@ -20,3 +20,11 @@ I ended up reading multiple times and comparing results.
 
 It may have been a power supply problem since I used USB Power only.  
 Also additional level shifters for the Address lines etc. may improve stability.
+
+# Resources
+<https://problemkaputt.de/pandocs.htm#thecartridgeheader>  
+(gone as of 2021-01-25, I really hope it will be reuploaded by someone, since it was one of the best resources out there)  
+
+<https://b13rg.github.io/Gameboy-Bank-Switching/>  
+
+<https://dhole.github.io/post/gameboy_cartridge_emu_1/>
